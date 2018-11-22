@@ -3,7 +3,7 @@ from utils import imread, get_image_path, scale_image
 import os
 
 PATCH_SIZE = 55
-stride = 12
+stride = 4
 data_dir = './data'
 
 def generate_patches():
