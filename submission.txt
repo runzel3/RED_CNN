@@ -1,0 +1,1 @@
+python sample_request.py --netid runzel3  --token aac4213c7db062a22c2a16b4866136a5fd6f1a2516e03273b253aa6e900ebe57 --image-dir C:\Users\runzel3\Desktop\testimages2  --server http://104.43.250.70
